@@ -16,8 +16,15 @@ h1 {
   color: white;
   background-color: red;
 }
-
+.cool {
+  color: blue;
+  background-color: cornsilk;
+}
 .about {
   font-style: italic;
-  font-family: cursive;
+  font-family: serif;
+}
+
+span.important {
+  font-weight: bold;
 }
