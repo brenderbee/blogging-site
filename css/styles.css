@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 h1 {
   text-align: center;
 }
@@ -8,19 +12,27 @@ h1 {
 }
 
 .post-planet {
+  margin-top: 50px;
+  margin-bottom: 25px;
   color: purple;
   background-color: black;
 }
 
 .post-nebula {
+  margin-top: 50px;
+  margin-bottom: 25px;
   color: white;
   background-color: red;
 }
 .cool {
+  margin-top: 25px;
+  margin-bottom: 25px;
   color: blue;
   background-color: cornsilk;
 }
 .about {
+  margin-top: 25px;
+  margin-bottom: 25px;
   font-style: italic;
   font-family: serif;
 }
